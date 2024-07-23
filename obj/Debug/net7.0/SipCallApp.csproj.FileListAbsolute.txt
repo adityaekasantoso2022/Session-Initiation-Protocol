@@ -1,0 +1,64 @@
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SipCallApp
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.deps.json
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.runtimeconfig.json
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.pdb
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/DnsClient.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Serilog.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SIPSorcery.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/websocket-sharp.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/SIPSorceryMedia.Abstractions.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.AssemblyReference.cache
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.AssemblyInfoInputs.cache
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.AssemblyInfo.cs
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.CoreCompileInputs.cache
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.sourcelink.json
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.Up2Date
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/refint/SipCallApp.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.pdb
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.genruntimeconfig.cache
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/obj/Debug/net7.0/ref/SipCallApp.dll
+/Users/adityaekasantoso/Downloads/Learn SIP/SipCallApp/bin/Debug/net7.0/localhost.pfx
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/localhost.pfx
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SipCallApp
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.deps.json
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.runtimeconfig.json
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SipCallApp.pdb
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/DnsClient.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Serilog.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Serilog.Extensions.Logging.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/Serilog.Sinks.Console.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SIPSorcery.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/websocket-sharp.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/bin/Debug/net7.0/SIPSorceryMedia.Abstractions.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.AssemblyReference.cache
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.AssemblyInfoInputs.cache
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.AssemblyInfo.cs
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.CoreCompileInputs.cache
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.sourcelink.json
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.csproj.Up2Date
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/refint/SipCallApp.dll
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.pdb
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/SipCallApp.genruntimeconfig.cache
+/Users/adityaekasantoso/Kerja - PT. Multiintegra/Projact/SIP/SipCallApp/obj/Debug/net7.0/ref/SipCallApp.dll
